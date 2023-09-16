@@ -2,7 +2,7 @@
 COMP642 Advanced Programming
 Object Oriented Programming Individual Assignment 1
 -----------------------------------------
-## Total Marks out of 100: 93
+#### Total Marks out of 100: 93
 -----------------------------------------
 Design and implement a system to manage group exercise classes in a gym. The goal is to create a system that efficiently manages class enrolments, tracks attendance, and calculates payments for gym members participating in group exercise sessions.
 
