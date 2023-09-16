@@ -1,8 +1,6 @@
-# OOP_Gym
-COMP642 Advanced Programming
-Object Oriented Programming Individual Assignment 1
+# Semester Two 2023 | COMP642 Advanced Programming | Invididual Assignment 1
 -----------------------------------------
-#### Total Marks out of 100: 93
+#### Marks: 93/100
 -----------------------------------------
 Design and implement a system to manage group exercise classes in a gym. The goal is to create a system that efficiently manages class enrolments, tracks attendance, and calculates payments for gym members participating in group exercise sessions.
 
@@ -43,25 +41,32 @@ Design and implement a system to manage group exercise classes in a gym. The goa
 
 • Attributes:
   o The full name of the gym member.
+  
   o A unique membership number for the gym member.
-  o A list of group exercise classes (objects of the GroupExercise class) in which
-  the member is enrolled.
+  
+  o A list of group exercise classes (objects of the GroupExercise class) in which the member is enrolled.
+  
   
 • Methods:
-  o Books enrolment in a group exercise class. If the class is already full, the
-  member will be added to the waitlist.
+  o Books enrolment in a group exercise class. If the class is already full, the member will be added to the waitlist.
+  
   o Cancels enrolment in a group exercise class.
+  
   o Displays all booked group exercise classes.
+  
   
 #### The Trainer Class:
 • The Trainer class represents a gym trainer.
 
 • Attributes:
   o The full name of the trainer.
+  
   o The specialisation or expertise of the trainer.
-  o A list of group exercise classes (objects of the GroupExercise class) assigned to
-  the trainer.
+  
+  o A list of group exercise classes (objects of the GroupExercise class) assigned to the trainer.
   
 • Methods:
   o Displays the list of group exercise classes assigned to the trainer.
+  
   o Adds a group exercise class to the list of classes assigned to the trainer.
+  
